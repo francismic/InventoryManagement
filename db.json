@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "text": "Une chaise",
+      "description": "Belle chaise de couleur rouge. Parfait pour votre salle à manger.",
+      "price": "20$",
+      "categorie": "Catégorie 2",
+      "id": 1
+    },
+    {
+      "text": "Iphone 10",
+      "description": "Iphone usager parfait pour votre enfant qui risque de la casser la même semaine.",
+      "price": "100$",
+      "categorie": "",
+      "id": 2
+    },
+    {
+      "text": "Pomme",
+      "description": "Une pomme pourite",
+      "price": "0$",
+      "categorie": "Catégorie 3",
+      "id": 3
+    }
+  ]
+}
